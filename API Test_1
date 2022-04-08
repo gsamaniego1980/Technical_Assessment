@@ -5,8 +5,8 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
   "recipients": {
     "signers": [
       {
-        "email": "theflash@jakedstest.xyz",
-        "name": "Barry Allen",
+        "email": "vinicius.rodrigues@docusign.com",
+        "name": "Vinicius",
         "recipientId": 1,
         "accessCode": "98371",
         "tabs": {
@@ -22,7 +22,7 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
       },
       {
         "email": "",
-        "name": "Bruce Wayne",
+        "name": "Gabriel Samaniego",
         "recipientId": 1, 
         "tabs": {
           "signHereTabs": [
